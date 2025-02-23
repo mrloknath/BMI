@@ -11,7 +11,15 @@ A Flutter-based fitness app that provides guidance on **Muscle Exercises** and *
 ## Screenshots
 
 ### Muscle Exercise Section
-![Muscle Exercise Screenshot](Screen_Short/exercise.jpg)
+![Muscle Exercise Screenshot](Screen_Shorts/exercise.jpg)
+<p align="center">
+   <img src="Screen_Shorts/exercise.jpg" width="150">
+  <img src="Screen_Shorts/exercise1.jpg" width="150">
+  <img src="Screen_Shorts/exercise2.jpg" width="150">
+  <img src="Screen_Shorts/exercise3.jpg" width="150">
+  <img src="Screen_Shorts/exercise4.jpg" width="150">
+</p>
+
 
 ### Yoga Asana Section
 ![Yoga Asana Screenshot](Screen_Shorts/yoga.jpg)
