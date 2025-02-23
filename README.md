@@ -15,18 +15,22 @@ A Flutter-based fitness app that provides guidance on **Muscle Exercises** and *
    <img src="Screen_Shorts/flash.jpg" width="150">
   <img src="Screen_Shorts/home.jpg" width="150">
   <img src="Screen_Shorts/result1.jpg" width="150">
-  <img src="Screen_Shorts/result2.jpg" width="150">
+  <img src="Screen_Shorts/resul2.jpg" width="150">
   <img src="Screen_Shorts/result_fab.jpg" width="150">
 </p>
 
 ### Food Recomend Section 
-<p align="center" style="background-color: #f0f0f0; padding: 10px;">
-   <img src="Screen_Shorts/food.jpg" width="150">
-  <img src="Screen_Shorts/food1.jpg" width="150">
-  <img src="Screen_Shorts/food2.jpg" width="150">
-  <img src="Screen_Shorts/food3.jpg" width="150">
-  <img src="Screen_Shorts/food4.jpg" width="150">
-</p>
+<table>
+  <tr>
+    <td style="background-color: #f0f0f0; padding: 10px;">
+      <img src="Screen_Shorts/exercise1.jpg" width="150">
+      <img src="Screen_Shorts/exercise2.jpg" width="150">
+      <img src="Screen_Shorts/exercise3.jpg" width="150">
+      <img src="Screen_Shorts/exercise4.jpg" width="150">
+      <img src="Screen_Shorts/exercise5.jpg" width="150">
+    </td>
+  </tr>
+</table>
 
 ### Muscle Exercise Section
 <p align="center" style="background-color: #f0f0f0; padding: 10px;">
@@ -50,9 +54,9 @@ A Flutter-based fitness app that provides guidance on **Muscle Exercises** and *
 _(Replace the above placeholders with actual screenshot file names)_
 
 ## Installation
-Run this app :
+Run this app : Visit This Link
    ```bash
-   git clone https://github.com/yourusername/fitness-app.git
+    https://mrloknath.github.io/BMI/
    ```
 
 
@@ -65,8 +69,6 @@ Run this app :
 ## Contributing
 Feel free to contribute to this project! Fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 Developed with ❤️ using Flutter.
