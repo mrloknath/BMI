@@ -1,3 +1,5 @@
+<body style="background-color: black; color: white;">
+
 # Fitness App: BMI calculate
 
 A Flutter-based fitness app that provides guidance on **Muscle Exercises** and **Yoga Asanas** with visually appealing UI and categorized workout sections.
@@ -20,17 +22,13 @@ A Flutter-based fitness app that provides guidance on **Muscle Exercises** and *
 </p>
 
 ### Food Recomend Section 
-<table>
-  <tr>
-    <td style="background-color: #f0f0f0; padding: 10px;">
-      <img src="Screen_Shorts/exercise1.jpg" width="150">
-      <img src="Screen_Shorts/exercise2.jpg" width="150">
-      <img src="Screen_Shorts/exercise3.jpg" width="150">
-      <img src="Screen_Shorts/exercise4.jpg" width="150">
-      <img src="Screen_Shorts/exercise5.jpg" width="150">
-    </td>
-  </tr>
-</table>
+<p align="center" style="background-color: #f0f0f0; padding: 10px;">
+   <img src="Screen_Shorts/food.jpg" width="150">
+  <img src="Screen_Shorts/food1.jpg" width="150">
+  <img src="Screen_Shorts/food2.jpg" width="150">
+  <img src="Screen_Shorts/food3.jpg" width="150">
+  <img src="Screen_Shorts/food4.jpg" width="150">
+</p>
 
 ### Muscle Exercise Section
 <p align="center" style="background-color: #f0f0f0; padding: 10px;">
@@ -72,3 +70,5 @@ Feel free to contribute to this project! Fork the repository and submit a pull r
 
 ---
 Developed with ❤️ using Flutter.
+
+</body>
