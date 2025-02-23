@@ -11,7 +11,7 @@ A Flutter-based fitness app that provides guidance on **Muscle Exercises** and *
 ## Screenshots
 
 ### Muscle Exercise Section
-<p align="center" style="background-color: #f0f0f0; padding: 10px;>
+<p align="center" style="background-color: #f0f0f0; padding: 10px;">
    <img src="Screen_Shorts/exercise.jpg" width="150">
   <img src="Screen_Shorts/exercise1.jpg" width="150">
   <img src="Screen_Shorts/exercise2.jpg" width="150">
